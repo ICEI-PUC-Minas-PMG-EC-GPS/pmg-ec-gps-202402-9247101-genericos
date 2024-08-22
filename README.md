@@ -1,18 +1,15 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Fast Logistics
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+> O projeto tem como objetivo automatizar a operação de empresas de logística e transporte para melhorar a eficiência operacional e reduzir custos. O sistema integrado gerenciará desde o rastreamento de cargas e a programação de rotas até o monitoramento de veículos em tempo real.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Enzo Rodrigues Soares](https://github.com/enzorodrigues)
+* [Helder Thadeu de Souza Santos](https://github.com/helderthadeu)
+* [Gabriel Vieira Franco Vilaça](https://github.com/gabvilaaa)
+
 
 ## Professor responsável
 
