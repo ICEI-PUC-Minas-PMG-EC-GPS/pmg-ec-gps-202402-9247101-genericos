@@ -41,7 +41,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o aumento significativo das compras online, a demanda pelos serviços de transportadoras cresceu de forma acelerada. Esse crescimento, muitas vezes desproporcional, resultou em um déficit tecnológico significativo em várias empresas do setor. Como consequência, muitas transportadoras não conseguiram informatizar seus processos na mesma velocidade em que seus negócios se expandiam, levando a diversos problemas. O principal deles é a falta de integração entre os sistemas existentes, o que gera grandes ineficiências operacionais.
 
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
