@@ -73,6 +73,8 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 - Redução dos custos operacionais;
 - Satisfação do cliente;
 - Integração completa com os demais sistemas da empresa;
+- Entrega dentro do prazo;
+- Planejamento correto (evitar adição de escopo ao projeto);
 
 > Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
