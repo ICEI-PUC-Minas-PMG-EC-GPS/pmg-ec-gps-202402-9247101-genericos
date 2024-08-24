@@ -48,23 +48,12 @@ Com o aumento significativo das compras online, a demanda pelos serviços de tra
 
 Nosso trabalho tem como foco a informatização e integração de diversos sistemas logísticos. Pretendemos criar um sistema de rastreamento de entregas eficiente, desenvolver uma aplicação web e móvel para facilitar a visualização das informações e integrar essas plataformas. O sistema será dividido em interfaces distintas para funcionários e clientes, garantindo uma experiência otimizada para cada grupo de usuários.   
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 
 ## Justificativa
 
 
 A construção deste projeto traz benefícios significativos para a organização ao atender a uma demanda específica de modernização e integração dos sistemas logísticos. A informatização e a implementação de rastreamento em tempo real aumentam a eficiência operacional e melhoram a experiência do cliente, oferecendo maior transparência e controle sobre as entregas. A integração das plataformas proporciona uma visão unificada das operações, facilitando a gestão e a tomada de decisões.
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
 
 ## Critérios de Sucesso
 
@@ -75,10 +64,7 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 - Integração completa com os demais sistemas da empresa;
 - Entrega dentro do prazo;
 - Planejamento correto (evitar adição de escopo ao projeto);
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+ 
 
 # Partes Interessadas
 
@@ -86,33 +72,15 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
 > Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
 
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 ![image](https://github.com/user-attachments/assets/935177de-6270-4b8a-a4f7-bd873fe61e59)
 
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
 
 ![image](https://github.com/user-attachments/assets/34eae709-3297-4fb4-9bed-b28b27c48de7)
 
-
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
