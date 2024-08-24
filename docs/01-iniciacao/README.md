@@ -91,16 +91,18 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 
 ## Identificação das Partes Interessadas
 
-| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+Nome	Posição / Cargo	Papel no Projeto
+Givanildo de Oliveira	Gerente de Logística	Validação do processo e aprovação das entregas
+Ketlen da Silva	Auxíliar de Logística	Separa as encomendas para entrega
+Omar Pereira	Caminhoneiro	Transporta os materiais entre as filiais
+Carlos Cardoso	Entregador	Entrega ao fornecedor
+Pedro Américo	Cliente	Usuário final do acompanhamento de entregas
+Tabata Araujo	Gerente Financeiro	Validar as melhorias no setor financeiro
+Matheus da Costa	Gerente de Qualidade	Avaliar melhorias no processo de entregas
+Renan Dias	Gerente de TI	Acompanhar o desenvolvimento e aplicar as regras de negócio adequadas
+Lara Rodrigues	Estagiária de TI	Desenvolvedora suporte
+![image](https://github.com/user-attachments/assets/935177de-6270-4b8a-a4f7-bd873fe61e59)
+
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
