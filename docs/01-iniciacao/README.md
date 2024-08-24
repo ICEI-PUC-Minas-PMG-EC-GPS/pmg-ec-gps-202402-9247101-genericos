@@ -102,7 +102,9 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 > - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
-![image](https://github.com/user-attachments/assets/b4ea5be2-e1e1-4e25-9e2d-cfeb37c755ed)
+
+![image](https://github.com/user-attachments/assets/34eae709-3297-4fb4-9bed-b28b27c48de7)
+
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
