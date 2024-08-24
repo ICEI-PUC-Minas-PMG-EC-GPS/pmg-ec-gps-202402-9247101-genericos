@@ -68,10 +68,6 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 
 # Partes Interessadas
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
 
 ## Identificação das Partes Interessadas
 ![image](https://github.com/user-attachments/assets/935177de-6270-4b8a-a4f7-bd873fe61e59)
