@@ -43,15 +43,10 @@
 
 Com o aumento significativo das compras online, a demanda pelos serviços de transportadoras cresceu de forma acelerada. Esse crescimento, muitas vezes desproporcional, resultou em um déficit tecnológico significativo em várias empresas do setor. Como consequência, muitas transportadoras não conseguiram informatizar seus processos na mesma velocidade em que seus negócios se expandiam, levando a diversos problemas. O principal deles é a falta de integração entre os sistemas existentes, o que gera grandes ineficiências operacionais.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso trabalho tem como foco a informatização e integração de diversos sistemas logísticos. Pretendemos criar um sistema de rastreamento de entregas eficiente, desenvolver uma aplicação web e móvel para facilitar a visualização das informações e integrar essas plataformas. O sistema será dividido em interfaces distintas para funcionários e clientes, garantindo uma experiência otimizada para cada grupo de usuários.   
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -63,7 +58,8 @@ Com o aumento significativo das compras online, a demanda pelos serviços de tra
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+A construção deste projeto traz benefícios significativos para a organização ao atender a uma demanda específica de modernização e integração dos sistemas logísticos. A informatização e a implementação de rastreamento em tempo real aumentam a eficiência operacional e melhoram a experiência do cliente, oferecendo maior transparência e controle sobre as entregas. A integração das plataformas proporciona uma visão unificada das operações, facilitando a gestão e a tomada de decisões.
 
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
