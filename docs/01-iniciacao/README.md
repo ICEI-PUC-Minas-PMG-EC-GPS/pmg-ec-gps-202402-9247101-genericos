@@ -164,8 +164,6 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
-
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
 |ID   | Marco do Projeto                                                  | 
