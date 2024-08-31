@@ -92,61 +92,25 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 
 ## Estimativa de Custo
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+A seguir, apresenta-se uma estimativa preliminar dos custos associados ao desenvolvimento e implementação do sistema Fast Logistics. Contém os recursos e valores necessários para a implementação do projeto.
 
 ![image](https://github.com/user-attachments/assets/83216125-9204-4701-b407-1639d84528f7)
 
 
-
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
+Dado o levantamento de recursos necessários para a execução do projeto, a seguir temos a estimativa de prazo necessária para a finalizar a implementação do Fast Logistics.
 
 ![image](https://github.com/user-attachments/assets/3931ffc9-f224-4574-88f7-574a8488af60)
 
+
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
 
 ## Declaração de Escopo
 
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
@@ -154,9 +118,9 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|-------|
 |RF-001| Permitir que o usuário cadastre items a serem entregues | ALTA | 
 |RF-002| Definir rotas de entregas   | ALTA |
-|RF-003| O sistema deve rastrar o transporte| BAIXA|
-|RF-004| O entregador deve ser possível registrar recebimento dos pacotes|ALTA|
-|RF-005| O cliente deve ser possível visualizar o status da sua entrega|MÉDIA|
+|RF-003| O sistema deve rastrar o transporte |BAIXA|
+|RF-004| O entregador deve ser possível registrar recebimento dos pacotes |ALTA|
+|RF-005| O cliente deve ser possível visualizar o status da sua entrega |MÉDIA|
 |RF-006| Emitir notas fiscais no dispositivo web |ALTA|
 |RF-007| Definir rotas internas dos produtos |MÉDIA|
 |RF-008| Definir e informar o entregador responsável |MÉDIA|
@@ -164,8 +128,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-010| Gerar relatório sobre entregas |BAIXA|
 
 ### Requisitos Não Funcionais
-
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
@@ -180,17 +142,15 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RE-003| ||
-|RE-003| ||
-|RE-003| ||
+|RE-001| O aplicativo movel deve ser compativel com sistemas Android e iOS | ALTA | 
+|RE-002| Deve ser escalável para suportar possiveis aumentos de demanda | MÉDIA |
+|RE-003| Permitir a criação de perfis de controle | MÉDIA |
+|RE-004| Realizar backup dos dados diariamente | ALTA |
+|RE-005| A implementação deve ser realizada dentro do orçamento definido | ALTA |
 
 ### Contra-Escopo
 
@@ -210,12 +170,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Conclusão da fase de desenvolvimento do projeto |
+|M-2  | Liberação do sistema para usuários focais, fase de homologação |
+|M-3  | Liberação do sistema para o cadastro de usuários |
+|M-4  | Integração do sistema com os setores da empresa |
+|M-5  | Treinamento dos usuários |
+|M-6  | Entrega final e encerramento |
 
 ```diff
 + Tarefa 02
