@@ -34,10 +34,7 @@
 
 # Introdução
 
-```diff
-+ Tarefa 01:
-+ Tema do projeto e lista de Stakeholders
-```
+O Fast Logistics visa digitalizar empresas de logística e transportes, com foco em melhorar a eficiência no monitoramento e gestão de encomendas. Em um mercado onde a rapidez e a precisão na entrega são cruciais, o sistema proporcionar uma visão em tempo real das etapas de processamento das encomendas para os gestores e clientes finais. Esse projeto não só aumentará a transparência e eficiência operacional, como também a confiança e a satisfação dos clientes.
 
 ## Problema
 
@@ -46,11 +43,10 @@ Com o aumento significativo das compras online, a demanda pelos serviços de tra
 
 ## Objetivos
 
-Nosso trabalho tem como foco a informatização e integração de diversos sistemas logísticos. Pretendemos criar um sistema de rastreamento de entregas eficiente, desenvolver uma aplicação web e móvel para facilitar a visualização das informações e integrar essas plataformas. O sistema será dividido em interfaces distintas para funcionários e clientes, garantindo uma experiência otimizada para cada grupo de usuários.   
+Nosso trabalho tem como foco a informatização e integração de diversos sistemas logísticos. Pretendemos criar um sistema de rastreamento de entregas eficiente, desenvolver uma aplicação web e móvel para facilitar a visualização das informações e integrar essas plataformas. O sistema será dividido em interfaces distintas para gestores, funcionários e clientes, garantindo que cada grupo de usuários tenha acesso às informações e funcionalidades específicas para suas necessidades. 
 
 
 ## Justificativa
-
 
 A construção deste projeto traz benefícios significativos para a organização ao atender a uma demanda específica de modernização e integração dos sistemas logísticos. A informatização e a implementação de rastreamento em tempo real aumentam a eficiência operacional e melhoram a experiência do cliente, oferecendo maior transparência e controle sobre as entregas. A integração das plataformas proporciona uma visão unificada das operações, facilitando a gestão e a tomada de decisões.
 
@@ -68,7 +64,6 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 
 # Partes Interessadas
 
-
 ## Identificação das Partes Interessadas
 ![image](https://github.com/user-attachments/assets/935177de-6270-4b8a-a4f7-bd873fe61e59)
 
@@ -76,12 +71,6 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 ## Avaliação das Partes Interessadas
 
 ![image](https://github.com/user-attachments/assets/34eae709-3297-4fb4-9bed-b28b27c48de7)
-
-
-```diff
-+ Tarefa 01
-+ Fim da seção a ser atualizada.
-```
 
 
 -----
