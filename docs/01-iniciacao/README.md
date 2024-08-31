@@ -205,7 +205,7 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-![image](https://github.com/user-attachments/assets/40ee5e50-9b97-470d-a558-54bd09c1d91a)
+![image](https://github.com/user-attachments/assets/6995bb7c-e25c-4d59-874a-c99afbb8ebcc)
 
 
 ### Condições para início do Projeto
