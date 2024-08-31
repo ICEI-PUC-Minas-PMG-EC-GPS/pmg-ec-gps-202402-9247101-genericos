@@ -205,30 +205,12 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+![image](https://github.com/user-attachments/assets/40ee5e50-9b97-470d-a558-54bd09c1d91a)
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
-
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
-|CE-003| ||
-|CE-004| ||
-|CE-005| ||
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
-A tabela a seguir, apresente as condições para que o projeto seja iniciado.
-
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Aprovação das definições do projeto |
-|CI-002| Pagamento inicial |
-|CI-003| Definição de prazo inicial|
-
+![image](https://github.com/user-attachments/assets/3559a124-b83b-49e6-8fee-c52b0214c88e)
 
 
 ## Marcos Agendados e Entregas
