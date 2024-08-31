@@ -181,8 +181,16 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre items a serem entregues | ALTA | 
+|RF-002| Definir rotas de entregas   | ALTA |
+|RF-003| O sistema deve rastrar o transporte| BAIXA|
+|RF-004| O entregador deve ser possível registrar recebimento dos pacotes|ALTA|
+|RF-005| O cliente deve ser possível visualizar o status da sua entrega|MÉDIA|
+|RF-006| Emitir notas fiscais no dispositivo web |ALTA|
+|RF-007| Definir rotas internas dos produtos |MÉDIA|
+|RF-008| Definir e informar o entregador responsável |MÉDIA|
+|RF-009| Estimar prazo de entrega |BAIXA|
+|RF-010| Gerar relatório sobre entregas |BAIXA|
 
 ### Requisitos Não Funcionais
 
@@ -193,7 +201,10 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-002| Deve atualizar status de entregas em no máximo 5 minutos | BAIXA |
+|RNF-003| Deve informar entregadores de suas rotas em menos de 1 minutos |MÉDIA|
+|RNF-004| O sistema deve funcionar 24/7 |ALTA|
+|RNF-005| Dipsonibilizar ferramentas para validação de entrega |ALTA|
 
 
 ### Restrições
@@ -206,7 +217,9 @@ A tabela a seguir apresenta as restrições do projeto.
 |------|-----------------------------------------|-------|
 |RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RE-003| ||
+|RE-003| ||
+|RE-003| ||
 
 ### Contra-Escopo
 
@@ -218,6 +231,9 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |------|-------------------------------------|
 |CE-001| Treinamento de modelo de LLM        |
 |CE-002| Pesquisa de viabilidade do mercado. |
+|CE-003| ||
+|CE-004| ||
+|CE-005| ||
 
 ### Condições para início do Projeto
 
@@ -227,8 +243,11 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
 |------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|CI-001| Aprovação das definições do projeto |
+|CI-002| Pagamento inicial |
+|CI-003| Definição de prazo inicial|
+
+
 
 ## Marcos Agendados e Entregas
 
