@@ -220,11 +220,11 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
+| Quadro Kanban         | Github             | https://shorturl.at/OFJfY | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub             | https://shorturl.at/mvQ51 |               |
+| Protótipo Interativo  | MavelApp ou Figma  | https://shorturl.at/8tgxP  |               |
+| Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        |               |
+| Planilhas e Gráficos  | Google Planilhas   | https://shorturl.at/fkDf7   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
 | Matriz RACI           | | | |
