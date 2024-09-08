@@ -210,9 +210,14 @@ O Scrum é uma estrutura de metodologias ágeis que ajuda no controle de entrega
 
 ## Divisão de Papéis
 
-Product Owner e desenvolvedor backend - Helder Thadeu /**
-Scrum Master e desenvolvedor frontend - Enzo Rodrigues /**
-Desenvolvedor backend e Data Engineer - Gabriel Vilaça
+Product Owner e desenvolvedor backend - Helder Thadeu
+- Liderar o time, mapear os requisitos ao longo do projeto, realizar testes e qualidade de software. Realizar o desenvolvimento backend do site WEB e app mobile.
+
+Scrum Master e desenvolvedor frontend - Enzo Rodrigues
+- Desenvolver o frontend do app mobile e do site WEB. Gerenciar custos do projeto, recursos e análise de sistemas. Criação da documentação.
+
+Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
+- Criação e manutenção do banco de dados na nuvem e desenvolvimento mobile. Manutenção, suporte e DevOps.
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
