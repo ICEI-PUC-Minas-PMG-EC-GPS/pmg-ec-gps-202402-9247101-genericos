@@ -210,8 +210,8 @@ O Scrum é uma estrutura de metodologias ágeis que ajuda no controle de entrega
 
 ## Divisão de Papéis
 
-Product Owner e desenvolvedor backend - Helder Thadeu
-Scrum Master e desenvolvedor frontend - Enzo Rodrigues
+Product Owner e desenvolvedor backend - Helder Thadeu /**
+Scrum Master e desenvolvedor frontend - Enzo Rodrigues /**
 Desenvolvedor backend e Data Engineer - Gabriel Vilaça
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
