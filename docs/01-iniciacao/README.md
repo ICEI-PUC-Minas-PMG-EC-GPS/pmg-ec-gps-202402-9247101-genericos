@@ -188,7 +188,13 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Será utilizada a metodologia Scrum para o controle das entregas do projeto. 
+O Scrum é uma estrutura de metodologias ágeis que ajuda no controle de entregas e eficiência do projeto. Podemos caracterizar este modelo pelos seguintes pontos:
+1 - Sprints: Sprints são jornadas finitas de desenvolvimento, normalmente 15 ou 30 dias, onde cada usuário tem tarefas definidas para serem desenvolvidas. O conteúdo de cada Sprint é definido nas reuniões de Planning e acompanhado na Daily
+2 - Daily Meeting: reuniões diárias de no máximo 15 minutos para verificar o andamento das entregas do dia, bem como alinhar os obstáculos e alinhar todo o time;
+3 - Planning meeting: Reunião mais longa para definir o que todo o time irá desenvolver na Sprint.
+4 - Priorização: O Scrum valoriza muito a priorização de atividades. Quando muitas coisas são prioridade, nada de fato é prioridade.
+5 - Kanban: Painél onde as terefas são inseridas e classificadas normalmente como feitas, em progresso ou conclúidas.
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
