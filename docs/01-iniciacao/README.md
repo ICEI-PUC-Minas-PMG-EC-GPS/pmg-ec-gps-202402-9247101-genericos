@@ -224,8 +224,6 @@ Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
 > Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
@@ -238,9 +236,7 @@ Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 | Protótipo Interativo  | MavelApp ou Figma  | https://shorturl.at/8tgxP  |               |
 | Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://shorturl.at/fkDf7   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+
 
 ```diff
 + Tarefa 03:
