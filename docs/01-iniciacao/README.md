@@ -73,22 +73,15 @@ Para avaliar o sucesso do projeto, iremos adotar os seguintes aspectos:
 ![image](https://github.com/user-attachments/assets/34eae709-3297-4fb4-9bed-b28b27c48de7)
 
 
------
-```diff
-+ Tarefa 02
-+ Termo de Abertura do Projeto
-```
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
+O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
+Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
+O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
+Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
+Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
 
@@ -174,11 +167,6 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |M-4  | Integração do sistema com os setores da empresa |
 |M-5  | Treinamento dos usuários |
 |M-6  | Entrega final e encerramento |
-
-```diff
-+ Tarefa 02
-+ Fim da seção a ser atualizada.
-```
 
 -----
 ```diff
