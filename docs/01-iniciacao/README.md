@@ -220,10 +220,11 @@ Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://shorturl.at/OFJfY | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://shorturl.at/mvQ51 |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://shorturl.at/8tgxP  |               |
-| Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://shorturl.at/fkDf7   |               |
+| Repositório de código | GitHub             | https://shorturl.at/mvQ51 | Centralização e armazenamento do código fonte do projeto |
+| Protótipo Interativo  | MavelApp ou Figma  | https://shorturl.at/8tgxP  | Definição dos layouts das telas do projeto |
+| Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        | Centralizar e gerenciar as documentações técnicas e processuais |
+| Planilhas e Gráficos  | Google Planilhas   | https://shorturl.at/fkDf7   | Documentar métricas e resultados para relatórios |
+| Cloud  | Google Cloud   | https://cloud.google.com/?hl=pt-BR   | Hospedagem em nuvem e serviços de CI/CD |
 
 
 ```diff
