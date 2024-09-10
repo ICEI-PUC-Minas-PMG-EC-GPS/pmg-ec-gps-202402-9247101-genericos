@@ -111,7 +111,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|-------|
 |RF-001| Permitir que o usuário cadastre items a serem entregues | ALTA | 
 |RF-002| Definir rotas de entregas   | ALTA |
-|RF-003| O sistema deve rastrar o transporte |BAIXA|
+|RF-003| O sistema deve rastrear o transporte |BAIXA|
 |RF-004| O entregador deve ser possível registrar recebimento dos pacotes |ALTA|
 |RF-005| O cliente deve ser possível visualizar o status da sua entrega |MÉDIA|
 |RF-006| Emitir notas fiscais no dispositivo web |ALTA|
@@ -219,7 +219,7 @@ Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://shorturl.at/OFJfY | Centralização e organização do projeto no próprio repositório. |
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/31/views/1 | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://shorturl.at/mvQ51 | Centralização e armazenamento do código fonte do projeto |
 | Protótipo Interativo  | MavelApp ou Figma  | https://shorturl.at/8tgxP  | Definição dos layouts das telas do projeto |
 | Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        | Centralizar e gerenciar as documentações técnicas e processuais |
