@@ -128,7 +128,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |-------|-------------------------------------------------------------------|-----------|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
 |RNF-002| Deve atualizar status de entregas em no máximo 5 minutos | BAIXA |
-|RNF-003| Deve informar entregadores de suas rotas em menos de 1 minutos |MÉDIA|
+|RNF-003| Deve informar entregadores de suas rotas em menos de 1 minuto |MÉDIA|
 |RNF-004| O sistema deve funcionar 24/7 |ALTA|
 |RNF-005| Dipsonibilizar ferramentas para validação de entrega |ALTA|
 
