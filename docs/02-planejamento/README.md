@@ -43,6 +43,7 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 # Estrutura Analítica do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+https://miro.com/welcomeonboard/eG9xTmJXZ0xtZDlJSGYyaDdZVWZLRUlJVTh5cjJ6SktGTE81cnpabnZiVURFdW5Pc1M5ajVpelA3RktTTUV5V3wzNDU4NzY0NTk5ODQ2NDA3MzA0fDI=?share_link_id=859458124074
 
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
 > Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
