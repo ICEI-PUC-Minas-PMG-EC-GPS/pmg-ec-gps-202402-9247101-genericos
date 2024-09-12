@@ -28,13 +28,13 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto consiste no desenvolvimento de um sistema integrado que abrange um software WEB e um aplicativo mobile, com o objetivo de aprimorar o gerenciamento dos processos logísticos da Transportadora Tupí. O aplicativo mobile será projetado para permitir que os entregadores recebam e definam rotas de entrega, confirmem a entrega dos produtos com uma foto, reportem qualquer erro que ocorra durante o processo e monitorem sua localização em tempo real.
+O software WEB, acessível pela empresa cliente, oferecerá uma série de funcionalidades essenciais. Ele permitirá o registro e gerenciamento das encomendas, a definição e otimização das rotas de entrega, e o acompanhamento do status de processamento das encomendas. Além disso, o sistema possibilitará a emissão de notas fiscais e fornecerá informações detalhadas sobre os entregadores, como dados pessoais e placa do veículo, bem como a localização atual dos mesmos.
+Para o setor financeiro da empresa, o software WEB incluirá uma funcionalidade de acompanhamento financeiro das entregas. Também permitirá a visualização da capacidade do centro de distribuição, com informações sobre o inventário disponível. O sistema proporcionará a emissão de relatórios detalhados sobre as entregas e o desempenho logístico e possibilitará o registro e gestão de entregadores autônomos.
+Os clientes finais poderão rastrear suas entregas em tempo real por meio do aplicativo mobile. Adicionalmente, o software WEB incluirá funções administrativas para a adição e remoção de usuários, garantindo a gestão eficiente do sistema.
+O projeto será desenvolvido seguindo um cronograma que inclui fases de planejamento, desenvolvimento, testes, implementação e suporte. Durante a fase de planejamento, serão definidos os requisitos e o plano do projeto. A fase de desenvolvimento envolverá a codificação e implementação das funcionalidades. Na fase de testes, serão realizados testes de funcionalidade, usabilidade e segurança. Após a implementação, será oferecido treinamento para os usuários finais e administradores, seguido de suporte técnico e manutenção contínua.
+Este sistema integrado visa melhorar significativamente a eficiência das operações logísticas da Transportadora Tupí, proporcionando uma gestão mais eficaz e uma melhor experiência para clientes e entregadores.
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
 
 # Estrutura Analítica do Projeto
 
