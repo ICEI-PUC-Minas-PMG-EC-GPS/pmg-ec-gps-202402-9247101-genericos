@@ -34,7 +34,9 @@ O software WEB, acessível pela empresa cliente, oferecerá uma série de funcio
 
 Para o setor financeiro da empresa, o software WEB incluirá uma funcionalidade de acompanhamento financeiro das entregas. Também permitirá a visualização da capacidade do centro de distribuição, com informações sobre o inventário disponível. O sistema proporcionará a emissão de relatórios detalhados sobre as entregas e o desempenho logístico e possibilitará o registro e gestão de entregadores autônomos.
 Os clientes finais poderão rastrear suas entregas em tempo real por meio do aplicativo mobile. Adicionalmente, o software WEB incluirá funções administrativas para a adição e remoção de usuários, garantindo a gestão eficiente do sistema. <br>
+
 O projeto será desenvolvido seguindo um cronograma que inclui fases de planejamento, desenvolvimento, testes, implementação e suporte. Durante a fase de planejamento, serão definidos os requisitos e o plano do projeto. A fase de desenvolvimento envolverá a codificação e implementação das funcionalidades. Na fase de testes, serão realizados testes de funcionalidade, usabilidade e segurança. Após a implementação, será oferecido treinamento para os usuários finais e administradores, seguido de suporte técnico e manutenção contínua.<br>
+
 Este sistema integrado visa melhorar significativamente a eficiência das operações logísticas da Transportadora Tupí, proporcionando uma gestão mais eficaz e uma melhor experiência para clientes e entregadores.
 
 
