@@ -43,6 +43,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 # Estrutura Analítica do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+![Estrutura Analítica do Projeto](images/Fluxograma.jpg)
+
 [Diagrama EAP](https://miro.com/welcomeonboard/eG9xTmJXZ0xtZDlJSGYyaDdZVWZLRUlJVTh5cjJ6SktGTE81cnpabnZiVURFdW5Pc1M5ajVpelA3RktTTUV5V3wzNDU4NzY0NTk5ODQ2NDA3MzA0fDI=?share_link_id=808965871722)
 
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
@@ -53,7 +55,7 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Estrutura Analítica do Projeto](images/FLuxograma.jpg)
+
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
