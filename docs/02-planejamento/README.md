@@ -80,6 +80,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+![Diagrama](images/Fluxograma.jpg)
+
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
 > Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
