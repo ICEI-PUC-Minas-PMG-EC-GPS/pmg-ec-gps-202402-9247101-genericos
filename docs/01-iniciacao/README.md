@@ -168,11 +168,6 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |M-5  | Treinamento dos usuários |
 |M-6  | Entrega final e encerramento |
 
------
-```diff
-+ Tarefa 03:
-+ Metodologia do Projeto
-```
 
 # Metodologia
 
@@ -184,17 +179,6 @@ O Scrum é uma estrutura de metodologias ágeis que ajuda no controle de entrega
 - 4 - Priorização: O Scrum valoriza muito a priorização de atividades. Quando muitas coisas são prioridade, nada de fato é prioridade.
 - 5 - Kanban: Painél onde as terefas são inseridas e classificadas normalmente como feitas, em progresso ou conclúidas.
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## Divisão de Papéis
 
@@ -207,15 +191,7 @@ Scrum Master e desenvolvedor frontend - Enzo Rodrigues
 Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 - Criação e manutenção do banco de dados na nuvem e desenvolvimento mobile. Manutenção, suporte e DevOps.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
-
 ## Ferramentas
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
@@ -225,11 +201,5 @@ Desenvolvedor mobile e Data Engineer - Gabriel Vilaça
 | Documentos Textuais   | Google Docs | https://shorturl.at/vZaUn                        | Centralizar e gerenciar as documentações técnicas e processuais |
 | Planilhas e Gráficos  | Google Planilhas   | https://shorturl.at/fkDf7   | Documentar métricas e resultados para relatórios |
 | Cloud  | Google Cloud   | https://cloud.google.com/?hl=pt-BR   | Hospedagem em nuvem e serviços de CI/CD |
-
-
-```diff
-+ Tarefa 03:
-+ Fim da seção a ser atualizada.
-```
 
 ----
