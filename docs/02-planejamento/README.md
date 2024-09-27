@@ -21,10 +21,6 @@
   - [Plano de Riscos](#plano-de-riscos)
 
 -----
-```diff
-+ Tarefa 04:
-+ Escopo e Estrutura Analítica do Projeto
-```
 
 # Escopo do Projeto
 
@@ -66,11 +62,6 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
-
-```diff
-+ Tarefa 04:
-+ Fim da seção a ser atualizada.
-```
 
 -----
 ```diff
