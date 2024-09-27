@@ -38,29 +38,11 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 ![Estrutura Analítica do Projeto](images/Fluxograma.jpg)
 
-[Diagrama EAP](https://miro.com/welcomeonboard/eG9xTmJXZ0xtZDlJSGYyaDdZVWZLRUlJVTh5cjJ6SktGTE81cnpabnZiVURFdW5Pc1M5ajVpelA3RktTTUV5V3wzNDU4NzY0NTk5ODQ2NDA3MzA0fDI=?share_link_id=808965871722)
-
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
-
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-
-
-> Softwares recomendados: 
-> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
-> * [Draw.io](https://app.diagrams.net/)
-> * [ProjectLibre](https://www.projectlibre.com/)
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
 
 -----
@@ -71,9 +53,7 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-![Diagrama](images/Fluxograma.jpg)
+![Matriz_Raci](images/MatrizRaci.png)
 
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
