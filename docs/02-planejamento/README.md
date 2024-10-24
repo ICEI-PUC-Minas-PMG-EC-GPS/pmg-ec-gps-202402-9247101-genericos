@@ -98,11 +98,10 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 ```
 
 # Orçamento do Projeto
-![image](https://github.com/user-attachments/assets/2d4d933f-9d23-49de-9998-551b5778e7f7)
-![image](https://github.com/user-attachments/assets/095135e9-6b1e-48b3-bc3f-e03d509d5453)
-![image](https://github.com/user-attachments/assets/d3e45cfe-985e-49e8-9b90-ef0348c41683)
-![image](https://github.com/user-attachments/assets/7050d490-36e1-4056-934a-e6893d401318)
-
+![image](https://github.com/user-attachments/assets/42268328-8dba-4e00-af22-2fae9c88b348)
+![image](https://github.com/user-attachments/assets/ab149b30-3992-4f6a-892c-755eab73d3e3)
+![image](https://github.com/user-attachments/assets/1ffa1a7c-1ff5-4252-a013-abfb8420a7a5)
+![image](https://github.com/user-attachments/assets/a3ba1a94-13fa-43bc-b75d-091657245be4)
 
 
 ......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
