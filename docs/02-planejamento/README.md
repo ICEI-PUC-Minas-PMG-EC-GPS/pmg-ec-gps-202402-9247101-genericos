@@ -189,11 +189,8 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 
 ### Metodologias de Qualidade Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+![image](https://github.com/user-attachments/assets/cbc875b3-1208-417b-b0e8-5e611e44dd26)
+
 
 ```diff
 + Tarefa 09:
