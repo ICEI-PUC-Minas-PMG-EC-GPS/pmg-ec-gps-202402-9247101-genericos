@@ -136,7 +136,10 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 ## Plano de Qualidade
 
-...... DESCREVA SUCINTAMENTE O PLANO DE QUALIDADE UTILIZADO NO PROJETO ......
+
+O plano de Qualidade do projeto Fast Logistic visa cubrir os principais processos realizados durante as operações em tempo de desenvolvimento, além disso planeja deixar uma plataforma pré-implantada para ajudar as futuras manutenções necessárias em seu cotidiano de utilização. 
+
+Os projetos com seus produtos e sub-produtos serão cobertos por meio de análise de KPI's que verificam se há qualidades nas entradas ou saídas de cada tarefa. Por meio deste processo será possível análisar quais pontos necessitam de melhorias, e quais precisam ser ampliados para diferentes áreas.
 
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
