@@ -165,15 +165,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 > [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
 
 ### Artefatos a serem verificados
+![image](https://github.com/user-attachments/assets/e159e963-68ac-41fd-bc5e-e1f67a41e222)
 
-| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
-|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
 
 ### Padrões e Normas Utilizadas
 
