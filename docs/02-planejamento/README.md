@@ -178,12 +178,8 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 
 ### Ambiente das Atividades de Qualidade
 
-| Ambiente   | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+![image](https://github.com/user-attachments/assets/aea2be1f-592c-4ef1-a67d-c1a3da2e6c27)
+
 
 ### Equipe de Qualidade
 
