@@ -170,13 +170,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 ### Padrões e Normas Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+![image](https://github.com/user-attachments/assets/135d51f7-c382-4c28-967a-153a2dd66918)
+
 
 ### Ambiente das Atividades de Qualidade
 
