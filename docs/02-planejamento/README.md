@@ -232,7 +232,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+- [Especificação Produto Aquisição](https://github.com/user-attachments/files/17760541/aquisicao_produtos.pdf)
+
 
 
 ```diff
