@@ -183,13 +183,8 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 
 ### Equipe de Qualidade
 
-| Nome       | Responsabilidade | 
-|------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+![Equipes](https://github.com/user-attachments/assets/efa1a116-ecf9-4899-95fd-04405582082f)
+
 
 ### Metodologias de Qualidade Utilizadas
 
