@@ -92,10 +92,6 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 ```
 
 -----
-```diff
-+ Tarefa 08:
-+ Orçamento do Projeto
-```
 
 # Orçamento do Projeto
 ![image](https://github.com/user-attachments/assets/42268328-8dba-4e00-af22-2fae9c88b348)
@@ -103,8 +99,6 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 ![image](https://github.com/user-attachments/assets/1ffa1a7c-1ff5-4252-a013-abfb8420a7a5)
 ![image](https://github.com/user-attachments/assets/a3ba1a94-13fa-43bc-b75d-091657245be4)
 
-
-......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
@@ -114,13 +108,8 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
 - [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
 
-```diff
-+ Tarefa 08:
-+ Fim da seção a ser atualizada.
-```
 
 # Planos de Gerenciamento
 
@@ -129,10 +118,6 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
 > Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
 
-```diff
-+ Tarefa 09:
-+ Checklist de Qualidade
-```
 
 ## Plano de Qualidade
 
@@ -141,31 +126,6 @@ O plano de Qualidade do projeto Fast Logistic visa cubrir os principais processo
 
 Os projetos com seus produtos e sub-produtos serão cobertos por meio de análise de KPI's que verificam se há qualidades nas entradas ou saídas de cada tarefa. Por meio deste processo será possível análisar quais pontos necessitam de melhorias, e quais precisam ser ampliados para diferentes áreas.
 
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
-
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
-
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
-
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
-
-> Você pode utilizar como referência o seguinte documento:
-> [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
 
 ### Artefatos a serem verificados
 ![image](https://github.com/user-attachments/assets/e159e963-68ac-41fd-bc5e-e1f67a41e222)
@@ -192,16 +152,6 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 ![image](https://github.com/user-attachments/assets/cbc875b3-1208-417b-b0e8-5e611e44dd26)
 
 
-```diff
-+ Tarefa 09:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 10:
-+ Especificação de Produto para Aquisição
-```
-
 ## Plano de Aquisição
 
 > O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
@@ -210,85 +160,63 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
 ### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Especificação Produto Aquisição](https://github.com/user-attachments/files/17760541/aquisicao_produtos.pdf)
-
-
-
-```diff
-+ Tarefa 10:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 11:
-+ Plano de Comunicação
-```
 
 ## Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
+O plano de comunicação assegura a troca eficiente de informações entre a equipe e stakeholders, utilizando reuniões, e-mails e ferramentas colaborativas como Google Meet e Jira. As responsabilidades são distribuídas entre os papéis do projeto, com o Scrum Master e o Gerente de Projeto liderando os principais entregáveis. 
 
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
+As comunicações seguem uma frequência definida, variando de diária a mensal, e são guiadas pelos princípios de clareza, objetividade e cordialidade. Ferramentas de versionamento e repositórios centralizados garantem controle e acessibilidade dos documentos e versões do sistema.
 
 ### Plano de Comunicação do Projeto
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-
-> Legenda:
-> - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
-> - Responsável: pessoa responsável pela comunicação.
+| Ata de reunião                     | Equipe do projeto, Gerente de Projeto | E-mail, Google Chat, Documento em repositório central | Após cada reunião | Scrum Master |
+| Declaração de escopo               | Equipe do projeto, Product Owner, Cliente | Google Meet, E-mail. Documento em repositório central | No início e revisões | Product Owner, Gerente de Projeto |
+| WBS                                | Equipe do projeto | E-mail, Google Drive, Documento em repositório central | Durante planejamento | Gerente de Projeto |
+| Dicionário da WBS                  | Equipe do projeto | Documento em repositório central | Durante planejamento | Gerente de Projeto, Gerente de Qualidade |
+| Cronograma                         | Equipe de Projeto, Cliente | Google Meet, Jira, E-mail  | Semanal | Gerente de Projeto, Scrum Master |
+| Lista de Riscos                    | Equipe do projeto, Gerente de TI, Arquiteto de Software | Google Meet, Google Sheets | Quinzenal | Gerente de Projeto, Scrum Master, Product Owner |
+| Plano de qualidade                 | Desenvolvedores, Gerente de TI, Cliente, Arquiteto de SW | E-mail, Jira, Documento em repositório central  | Mensal | Gerente de Qualidade |
+| Plano de projeto                   | Equipe do projeto, Cliente | Documento em repositório central, Google Meet | Mensal | Gerente de Projeto |
+| Relatório de Progresso             | Gerente de TI, Cliente, Product Owner | Email | Semanal | Gerente de Projeto, Scrum Master |
+| Relatório de Aderência ao Processo | Desenvolvedores, Gerente de Qualidade | Google Meet, repositório central | Mensal | Gerente de Qualidade |
+| Checklists de Inspeção             | Gerente de Qualidade, Gerente de TI | Documento compartilhado | Quinzenal | Gerente de Qualidade, Gerente de TI |
 
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
-
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
-- Papéis:
-- - ...
-  - ...
-  - ...
-- Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+  - Gmail: Plataforma de e-mail para formalização de definições.
+  - Google Meet: Para reuniões e compartilhamento de informações em tempo real.
+  - Google Drive/Confluence: Armazenamento de documentos e central de informações.
+  - Jira: Controle de tarefas e acompanhamento de progresso.
+  - Google Sheets: Compartilhamento de listas de riscos e checklists colaborativos.
+  - Google Docs: Documentações de processos e TODOs para o time.
 
-```diff
-+ Tarefa 11:
-+ Fim da seção a ser atualizada.
-```
+- Papéis:
+  - Gerente de Projetos: Responsável por centralizar e organizar as comunicações, além de distribuir as informações para os stakeholders.
+  - Gerente de TI: Responsável pela comunicação técnica da equipe.
+  - Gerente de Qualidade: Responsável pela comunicação de planos e checklists de inspeção.
+  - Product Owner: Responsável pela comunicação do escopo do projeto e andamento do planejamento.
+  - Scrum Master: Responsável pela comunicação entre o time de desenvolvimento e qualidade com a alta gerência.
+
+- Princípios gerais
+  - Clareza: Informações apresentadas de forma objetiva e de fácil compreensão.
+  - Objetividade: Comunicação direta e sem ambiguidades.
+  - Imparcialidade e Impessoalidade: Todas as comunicações devem focar nos objetivos do projeto, sem atribuições pessoais.
+  - Cordialidade: Respeito e profissionalismo são essenciais em todas as interações.
+
+- Plano de Gerência de Configuração
+  - Ferramentas de Controle:
+    - Google Workspace: Plataforma de gerencimento de documentos, disponivel para todos envolvidos no projeto.
+    - GitHub: Controle de versões de código, disponivel para cargos técnicos.
+    - Confluence: Controle de versões de documentos, disponivel para todos.
+    - Jira: Registro de alterações e histórico de atividades, disponivel para todos.
+
+  - Controle de Responsabilidades:
+    - Cada entregável terá um responsável definido no plano de comunicação, que controlará a versão, atualização e distribuição do documento.
+    - Solicitações de mudanças passam por análise do Gerente de Projetos, com aprovação registrada em ata de reunião.
 
 ```diff
 + Tarefa 12:
