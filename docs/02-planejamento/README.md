@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6e4156d6-a7bc-445e-8c1c-b2a4c6e86c72)# Planejamento
+# Planejamento
 
 > A fase de planejamento na gerência de projetos é um momento onde os detalhes do projeto são minuciosamente definidos para garantir uma execução bem-sucedida. 
 > Durante essa etapa, os gerentes de projeto e suas equipes elaboram um plano abrangente que aborda aspectos como cronograma, orçamento, recursos necessários, riscos identificados e métodos de controle. 
