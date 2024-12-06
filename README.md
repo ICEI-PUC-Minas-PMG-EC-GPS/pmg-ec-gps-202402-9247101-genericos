@@ -18,11 +18,6 @@ Além disso, o sistema proporciona uma interface dedicada aos clientes, onde pod
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
-
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
 2. [Planejamento](docs/02-planejamento)
@@ -33,5 +28,5 @@ Fases do Gerenciamento do Projeto:
 ## Apresentação do Trabalho
 
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://youtu.be/RSAXzWsSeU0)
+[![Imagem do Trabalho](images/capa-youtube.PNG)](https://youtu.be/RSAXzWsSeU0)
 
