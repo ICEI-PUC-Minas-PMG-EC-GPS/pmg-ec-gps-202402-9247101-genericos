@@ -66,49 +66,36 @@ Este sistema integrado visa melhorar significativamente a eficiência das opera�
 ### Documento Editável
 - [Matriz de Responsabilidades (RACI) - Editável](artefatos/MatrizRaci.xlsx)
 
------
-```diff
-+ Tarefa 07:
-+ Cronograma do Projeto
-```
 
 # Cronograma do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O CRONOGRAMA DO SEU PROJETO AQUI ......
+O cronograma do projeto Fast Logistics foi elaborado com o objetivo de organizar e monitorar as etapas e entregas de cada fase do desenvolvimento. Ele detalha as atividades, prazos e responsáveis, alinhando-se às metodologias ágeis utilizadas (Scrum e Kanban). O cronograma inclui marcos importantes, como o levantamento de requisitos, design, desenvolvimento, testes, homologação e implantação, garantindo o cumprimento dos objetivos dentro dos prazos estipulados.
 
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/Projeto-Fast-Logistic.mpp)
 
-```diff
-+ Tarefa 07:
-+ Fim da seção a ser atualizada.
-```
 
 -----
 
 # Orçamento do Projeto
+
+O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
+O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
+Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
+A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
+Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+
+
 ![image](https://github.com/user-attachments/assets/42268328-8dba-4e00-af22-2fae9c88b348)
 ![image](https://github.com/user-attachments/assets/ab149b30-3992-4f6a-892c-755eab73d3e3)
 ![image](https://github.com/user-attachments/assets/1ffa1a7c-1ff5-4252-a013-abfb8420a7a5)
 ![image](https://github.com/user-attachments/assets/a3ba1a94-13fa-43bc-b75d-091657245be4)
 
-
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
-
 ### Documento Editável
 
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/Projeto-Fast-Logistic.mpp)
 
 
 # Planos de Gerenciamento
@@ -154,10 +141,10 @@ Os projetos com seus produtos e sub-produtos serão cobertos por meio de anális
 
 ## Plano de Aquisição
 
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
+Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
+O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
+Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
 ### Documento Editável
 - [Especificação Produto Aquisição](https://github.com/user-attachments/files/17760541/aquisicao_produtos.pdf)
@@ -218,26 +205,20 @@ As comunicações seguem uma frequência definida, variando de diária a mensal,
     - Cada entregável terá um responsável definido no plano de comunicação, que controlará a versão, atualização e distribuição do documento.
     - Solicitações de mudanças passam por análise do Gerente de Projetos, com aprovação registrada em ata de reunião.
 
-```diff
-+ Tarefa 12:
-+ Riscos do Projeto
-```
+
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
+O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
+Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
+Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
+Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
 
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
->
-> Você pode utilizar como referência o seguinte documento:
+O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
+Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
+Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
+
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
 | Categoria do Risco       | Descrição do Risco                                                | Impacto | Risco | Medidas de Prevenção (Contramedidas)                                                                                   | Medidas de Contingência (Mitigação)                                                                  |
@@ -258,15 +239,8 @@ As comunicações seguem uma frequência definida, variando de diária a mensal,
 | Dependência de Terceiros | Instabilidade nos serviços de APIs externas                       | Alto    | Alto  | Escolher APIs com SLA robusto e monitorar continuamente o desempenho                                                   | Alternar para APIs de backup e comunicar rapidamente a equipe e o cliente sobre os ajustes.          |
 | Dependência de Terceiros | Atraso na entrega de hardware ou licenças                         | Médio   | Médio | Planejar aquisições com antecedência e manter fornecedores alternativos como backup                                    | Ajustar prioridades no cronograma enquanto aguarda os itens atrasados.                               |
 
-> Indique:
-> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
-> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
-> Impacto: *Baixo / Médio / Alto*
-> Risco: *Baixo / Médio / Alto*
-> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
-> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
->
-> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
+
+### Tabela de Probabilidade
 
 | Probabilidade | Impacto       | Risco         |
 |---------------|---------------|---------------|
@@ -280,11 +254,6 @@ As comunicações seguem uma frequência definida, variando de diária a mensal,
 | Médio         | Alto          | Alto          |
 | Alto          | Médio         | Alto          |
 
-
-```diff
-+ Tarefa 12:
-+ Fim da seção a ser atualizada.
-```
 
 -----
 
